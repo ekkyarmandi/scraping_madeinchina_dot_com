@@ -9,5 +9,5 @@ I also use asynchronous programming for render and scrape multiple urls instead 
 Last but not least, I also write a script for converting the output data ada csv file using `pandas` library.
 
 ___  
-## Copy and Paste the Cookies
-pass
+## Copy and Paste Cookies
+<img src="./images/Screenshot 3.png" width=300 height=300>
