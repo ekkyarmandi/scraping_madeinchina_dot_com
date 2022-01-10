@@ -10,4 +10,4 @@ Last but not least, I also write a script for converting the output data ada csv
 
 ___  
 ## Copy and Paste Cookies
-<img src="./images/Screenshot_3.png" width=300 height=300>
+<img src="./images/Screenshot_3.png" width=500 height=500 align="middle">
