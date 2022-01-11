@@ -14,4 +14,4 @@ ___
 ## Copy and Paste Cookies
 <img src="./images/screenshots.png" width=500 height=500 align="middle">
 
-After clicking the export, go to /data/cookies.json open it using text editor, and then paste it there.
+After you are logged in, click the export, go to /data/cookies.json open it using text editor, and then paste it there.
